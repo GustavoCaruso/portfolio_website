@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/project.png",
+        "description": "klsdj sdkls dllsdjsl dsljsldjsldjs ldjsldjsljdslkjlsj",
+        "skills":["Node", "C#"],
+        "demo":"https://google.com/",
+        "source":"https://google.com/"
+    }
+]
